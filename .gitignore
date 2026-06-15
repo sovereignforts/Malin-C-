@@ -1,0 +1,29 @@
+# Build directories
+build/
+dist/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Executable
+malin
+malin.exe
+
+# Dependencies
+*.out
